@@ -1,0 +1,6 @@
+AKfycbz-cC7uz2QzTINEnZCNuYqObf3p5MZS_H593bS9f_FuSDvAMkLMSQfNKVOohX8iKGqC
+
+https://script.google.com/macros/s/AKfycbz-cC7uz2QzTINEnZCNuYqObf3p5MZS_H593bS9f_FuSDvAMkLMSQfNKVOohX8iKGqC/exec
+
+<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
